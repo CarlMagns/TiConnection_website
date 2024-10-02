@@ -98,6 +98,7 @@ header img:Hover{
     transform: translateY(-3px);
 }
 h1{
+    position: relative;
     text-shadow: 1px 1px 2px grey;
     font-family: sans-serif;
     text-align: center;
@@ -151,9 +152,7 @@ footer{
     font-size: 10px;
     letter-spacing: 1px;
 }
-div{
-    
-}
+ 
 .tabela{
     position: absolute;
     top: 77%;
